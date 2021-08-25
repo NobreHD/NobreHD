@@ -9,7 +9,7 @@
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on some randoms project 
+- 🔭 I’m currently working on some randoms projects
 
 - 🌱 I’m currently learning JavaFX 
 
