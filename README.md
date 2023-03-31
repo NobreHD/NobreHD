@@ -34,8 +34,10 @@ I'm a Full-Stack Developer and Freelancer with experience in creating web and mo
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@NobreHD&compact=True"/>
 </a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@NobreHD/c76e5a24-0204-4f75-94e5-0c0a2be99316.png" /></a>
-<br>
+
+<a href="https://wakatime.com/">
+<img align="center" src="https://wakatime.com/share/@NobreHD/d777d6af-1401-48de-adb7-ca7df2a149c8.svg"/>
+</a>
 
 ## GitHub Stats
 
