@@ -1,15 +1,5 @@
 # NobreHD
 
-<p align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nobrehd.nobrehd)
-
-</p>
-
-## Hello! My name is NobreHD 👋
-
-Thank you for taking the time to view my GitHub Profile!
-
 ## About Me
 
 I'm a Full-Stack Developer and Freelancer with experience in creating web and mobile applications, designing logos, developing Minecraft mods, and utilizing data analytics to optimize projects and drive data-driven decisions for businesses.
