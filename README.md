@@ -1,8 +1,5 @@
 # NobreHD
 
-![status](https://badge.stateful.com/NobreHD/status.svg)
-![status](https://badge.stateful.com/NobreHD/dnd.svg)
-
 ## About Me
 
 I'm a Full-Stack Developer and Freelancer with experience in creating web and mobile applications, designing logos, developing Minecraft mods, and utilizing data analytics to optimize projects and drive data-driven decisions for businesses.
